@@ -1,4 +1,4 @@
-h1 {
+h1, strong {
   color: green;
   margin: 0;
 }
@@ -23,5 +23,5 @@ h2 {
 }
 
 h1, h2, h3, h4, ul, li, p {
-  font-family: alegreya;
+  font-family: Alegreya Sans SC;
 }

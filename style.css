@@ -1,4 +1,4 @@
-h1, h2 {
+h1 {
   color: green;
   margin: 0;
 }
@@ -15,4 +15,9 @@ p.contact {
 
 h3, h4, p {
   margin: 0;
+}
+
+h2 {
+  color: green;
+  margin: 1
 }

@@ -3,5 +3,6 @@ color: green;
 }
 
 h4 {
+  position: static;
   right: 50%;
 }

@@ -32,3 +32,7 @@ th {
 h4 {
   text-align: right;
 }
+
+th.audio {
+  padding-right: 150px;
+}

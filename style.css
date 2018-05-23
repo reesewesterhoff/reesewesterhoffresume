@@ -26,5 +26,9 @@ h1 {
 }
 
 th {
-  padding-right: 100px
+  padding-right: 200px
+}
+
+h4 {
+  text-align: right;
 }
